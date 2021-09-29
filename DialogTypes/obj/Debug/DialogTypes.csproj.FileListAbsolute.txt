@@ -1,0 +1,17 @@
+C:\Users\floralunit\source\repos\Windows_WPF\DialogTypes\bin\Debug\DialogTypes.exe.config
+C:\Users\floralunit\source\repos\Windows_WPF\DialogTypes\bin\Debug\DialogTypes.exe
+C:\Users\floralunit\source\repos\Windows_WPF\DialogTypes\bin\Debug\DialogTypes.pdb
+C:\Users\floralunit\source\repos\Windows_WPF\DialogTypes\obj\Debug\DialogTypes.csprojAssemblyReference.cache
+C:\Users\floralunit\source\repos\Windows_WPF\DialogTypes\obj\Debug\MainWindow.g.cs
+C:\Users\floralunit\source\repos\Windows_WPF\DialogTypes\obj\Debug\NewWindow.g.cs
+C:\Users\floralunit\source\repos\Windows_WPF\DialogTypes\obj\Debug\App.g.cs
+C:\Users\floralunit\source\repos\Windows_WPF\DialogTypes\obj\Debug\DialogTypes_MarkupCompile.cache
+C:\Users\floralunit\source\repos\Windows_WPF\DialogTypes\obj\Debug\DialogTypes_MarkupCompile.lref
+C:\Users\floralunit\source\repos\Windows_WPF\DialogTypes\obj\Debug\MainWindow.baml
+C:\Users\floralunit\source\repos\Windows_WPF\DialogTypes\obj\Debug\NewWindow.baml
+C:\Users\floralunit\source\repos\Windows_WPF\DialogTypes\obj\Debug\DialogTypes.g.resources
+C:\Users\floralunit\source\repos\Windows_WPF\DialogTypes\obj\Debug\DialogTypes.Properties.Resources.resources
+C:\Users\floralunit\source\repos\Windows_WPF\DialogTypes\obj\Debug\DialogTypes.csproj.GenerateResource.cache
+C:\Users\floralunit\source\repos\Windows_WPF\DialogTypes\obj\Debug\DialogTypes.csproj.CoreCompileInputs.cache
+C:\Users\floralunit\source\repos\Windows_WPF\DialogTypes\obj\Debug\DialogTypes.exe
+C:\Users\floralunit\source\repos\Windows_WPF\DialogTypes\obj\Debug\DialogTypes.pdb

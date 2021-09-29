@@ -1,0 +1,16 @@
+C:\Users\floralunit\source\repos\Windows_WPF\WindowOwnership\bin\Debug\WindowOwnership.exe.config
+C:\Users\floralunit\source\repos\Windows_WPF\WindowOwnership\bin\Debug\WindowOwnership.exe
+C:\Users\floralunit\source\repos\Windows_WPF\WindowOwnership\bin\Debug\WindowOwnership.pdb
+C:\Users\floralunit\source\repos\Windows_WPF\WindowOwnership\obj\Debug\MainWindow.g.cs
+C:\Users\floralunit\source\repos\Windows_WPF\WindowOwnership\obj\Debug\Window1.g.cs
+C:\Users\floralunit\source\repos\Windows_WPF\WindowOwnership\obj\Debug\App.g.cs
+C:\Users\floralunit\source\repos\Windows_WPF\WindowOwnership\obj\Debug\WindowOwnership_MarkupCompile.cache
+C:\Users\floralunit\source\repos\Windows_WPF\WindowOwnership\obj\Debug\WindowOwnership_MarkupCompile.lref
+C:\Users\floralunit\source\repos\Windows_WPF\WindowOwnership\obj\Debug\MainWindow.baml
+C:\Users\floralunit\source\repos\Windows_WPF\WindowOwnership\obj\Debug\Window1.baml
+C:\Users\floralunit\source\repos\Windows_WPF\WindowOwnership\obj\Debug\WindowOwnership.g.resources
+C:\Users\floralunit\source\repos\Windows_WPF\WindowOwnership\obj\Debug\WindowOwnership.Properties.Resources.resources
+C:\Users\floralunit\source\repos\Windows_WPF\WindowOwnership\obj\Debug\WindowOwnership.csproj.GenerateResource.cache
+C:\Users\floralunit\source\repos\Windows_WPF\WindowOwnership\obj\Debug\WindowOwnership.csproj.CoreCompileInputs.cache
+C:\Users\floralunit\source\repos\Windows_WPF\WindowOwnership\obj\Debug\WindowOwnership.exe
+C:\Users\floralunit\source\repos\Windows_WPF\WindowOwnership\obj\Debug\WindowOwnership.pdb
