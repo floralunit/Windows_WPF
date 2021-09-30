@@ -5,19 +5,19 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Variant1"
         mc:Ignorable="d"
-        Title="Решение квадратных уравнений" Height="450" Width="767">
-    <Grid>
+        Title="Решение квадратных уравнений" Height="233.2" Width="349.4">
+    <Grid Loaded="Grid_Loaded">
         <Label Content="Решение квадратного уравнения вида: ax^2 + bx + c = 0" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
         <Label Content="Введите а:" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" RenderTransformOrigin="-8.789,-1.115"/>
         <Label Content="Введите b:" HorizontalAlignment="Left" Margin="10,82,0,0" VerticalAlignment="Top" RenderTransformOrigin="-9.289,-2.231"/>
         <Label Content="Введите c:" HorizontalAlignment="Left" Margin="10,126,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.026,-0.231"/>
-        <Button Name ="res_button" Content="Решить уравнение" Margin="10,167,636,0" VerticalAlignment="Top" Height="24" Click="Res_button_Click"/>
-        <TextBox Name ="a_textbox" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="1.15,2.565" Margin="82,44,636,0"/>
-        <TextBox Name ="b_textbox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="41" RenderTransformOrigin="1.117,4.826" Margin="82,86,0,0"/>
-        <TextBox Name ="c_textbox" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Margin="81,129,636,0" RenderTransformOrigin="0.475,1.087"/>
+        <Button Name ="res_button" Content="Решить уравнение" Margin="10,167,0,0" Click="Res_button_Click" HorizontalAlignment="Left" Width="115" Height="24" VerticalAlignment="Top"/>
+        <TextBox Name ="a_textbox" TextWrapping="Wrap" RenderTransformOrigin="1.15,2.565" Margin="82,44,0,0" HorizontalAlignment="Left" Width="43" Height="23" VerticalAlignment="Top"/>
+        <TextBox Name ="b_textbox" TextWrapping="Wrap" RenderTransformOrigin="1.117,4.826" Margin="82,86,0,0" HorizontalAlignment="Left" Width="41" Height="23" VerticalAlignment="Top"/>
+        <TextBox Name ="c_textbox" TextWrapping="Wrap" Margin="81,129,0,0" RenderTransformOrigin="0.475,1.087" HorizontalAlignment="Left" Width="44" Height="23" VerticalAlignment="Top"/>
         <Label Name ="d_label" Content="Дискриминант:" HorizontalAlignment="Left" Margin="154,41,0,0" VerticalAlignment="Top"/>
         <Label Name ="res_label" Content="Корни уравнения: " HorizontalAlignment="Left" Margin="154,91,0,0" VerticalAlignment="Top" RenderTransformOrigin="-3.421,-1.923"/>
-        <Button Name ="exit_button" Content="Назад" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="258,169,0,0" Click="Exit_button_Click"/>
+        <Button Name ="exit_button" Content="Назад" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="258,172,0,0" Click="Exit_button_Click"/>
 
     </Grid>
 </Window>

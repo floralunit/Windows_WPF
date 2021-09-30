@@ -5,8 +5,38 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Variant1"
         mc:Ignorable="d"
-        Title="FileWindow" Height="450" Width="800">
+        Title="Работа с файлами" Height="448.777" Width="793.886" Loaded="Window_Loaded">
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="254*" />
+            <ColumnDefinition Width="249*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="277*" />
+            <RowDefinition Height="34" />
+        </Grid.RowDefinitions>
+        <TextBox HorizontalAlignment="Stretch" 
+                 Grid.ColumnSpan="2"
+                 Margin="10,10,10,4"
+                 Name="textBoxContent" 
+                 VerticalAlignment="Stretch"
+                 VerticalScrollBarVisibility="Auto"
+                 />
+        <Button Content="Открыть" 
+                Grid.Row="1" Grid.Column="0"
+                Height="23" 
+                Name="buttonOpen" 
+                HorizontalAlignment="Stretch" 
+                Margin="10,5.4,63.6,5.2" 
+                Click="buttonOpen_Click" />
+        <Button Content="Сохранить" 
+                Grid.Row="1"
+                Height="23" 
+                Name="buttonSave" 
+                HorizontalAlignment="Stretch"
+                Margin="339,5.4,124.2,5.2"
+                Click="buttonSave_Click" Grid.ColumnSpan="2" />
+        <Button x:Name="exit_button" Content="Назад" HorizontalAlignment="Left" VerticalAlignment="Top" Width="96" Margin="283.4,5.4,0,0" Click="exit_button_Click" Grid.Column="1" Grid.Row="1" Height="23"/>
     </Grid>
 </Window>
+

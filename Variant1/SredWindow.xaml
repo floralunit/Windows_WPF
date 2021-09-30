@@ -5,12 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Variant1"
         mc:Ignorable="d"
-        Title="Расчет среднего арифметического" Height="217.5" Width="234.5">
-    <Grid>
-        <Label Name ="res_label" Content="Результат: " HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="1.474,1.019" Margin="10,151,0,0" Height="28"/>
-        <Label Content="Введите числа через Enter: " HorizontalAlignment="Left" VerticalAlignment="Top"/>
-        <Button Name ="res_button" Content="Рассчитать" HorizontalAlignment="Left" VerticalAlignment="Top" Width="202" Margin="10,124,0,0" RenderTransformOrigin="-3.895,-0.795" Click="Res_button_Click"/>
-        <TextBox Name="num_textbox" HorizontalAlignment="Left" Height="88" TextWrapping="WrapWithOverflow"  VerticalAlignment="Top" Width="202" Margin="10,31,0,0"/>
+        Title="Расчет среднего арифметического" Height="286.728" Width="298.817" Loaded="Window_Loaded">
+    <Grid Margin="0,0,3.8,-2.2">
+        <Label Name ="res_label" Content="Результат: " HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="1.474,1.019" Margin="10,174,0,0" Height="28"/>
+        <Label Content="Введите числа (по числу на каждой строке):" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Button Name ="res_button" Content="Рассчитать" HorizontalAlignment="Left" VerticalAlignment="Top" Width="267" Margin="10,148,0,0" RenderTransformOrigin="-3.895,-0.795" Click="Res_button_Click"/>
+        <TextBox Name="num_textbox" HorizontalAlignment="Left" Height="88" TextWrapping="WrapWithOverflow"  VerticalAlignment="Top" Width="267" Margin="10,31,0,0"/>
+        <Button x:Name="exit_button" Content="Назад" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="206,226,0,0" RenderTransformOrigin="0.546,2.701" Click="exit_button_Click"/>
+        <Button x:Name="string_button" Content="Перенос на новую строку" HorizontalAlignment="Left" Margin="10,124,0,0" VerticalAlignment="Top" Width="267" Height="19" RenderTransformOrigin="0.048,8.274" Click="string_button_Click"/>
+        <Button x:Name="clear_button" Content="Очистить" HorizontalAlignment="Left" Margin="10,226,0,0" VerticalAlignment="Top" Width="75" Click="clear_button_Click"/>
 
     </Grid>
 </Window>

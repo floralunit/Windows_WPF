@@ -1,0 +1,17 @@
+C:\Users\anya7\Documents\GitHub\Windows_WPF\Variant2\bin\Debug\Variant2.exe.config
+C:\Users\anya7\Documents\GitHub\Windows_WPF\Variant2\bin\Debug\Variant2.exe
+C:\Users\anya7\Documents\GitHub\Windows_WPF\Variant2\bin\Debug\Variant2.pdb
+C:\Users\anya7\Documents\GitHub\Windows_WPF\Variant2\obj\Debug\Variant2.csprojAssemblyReference.cache
+C:\Users\anya7\Documents\GitHub\Windows_WPF\Variant2\obj\Debug\MainWindow.g.cs
+C:\Users\anya7\Documents\GitHub\Windows_WPF\Variant2\obj\Debug\App.g.cs
+C:\Users\anya7\Documents\GitHub\Windows_WPF\Variant2\obj\Debug\Variant2_MarkupCompile.cache
+C:\Users\anya7\Documents\GitHub\Windows_WPF\Variant2\obj\Debug\Variant2_MarkupCompile.lref
+C:\Users\anya7\Documents\GitHub\Windows_WPF\Variant2\obj\Debug\MainWindow.baml
+C:\Users\anya7\Documents\GitHub\Windows_WPF\Variant2\obj\Debug\Variant2.g.resources
+C:\Users\anya7\Documents\GitHub\Windows_WPF\Variant2\obj\Debug\Variant2.Properties.Resources.resources
+C:\Users\anya7\Documents\GitHub\Windows_WPF\Variant2\obj\Debug\Variant2.csproj.GenerateResource.cache
+C:\Users\anya7\Documents\GitHub\Windows_WPF\Variant2\obj\Debug\Variant2.csproj.CoreCompileInputs.cache
+C:\Users\anya7\Documents\GitHub\Windows_WPF\Variant2\obj\Debug\Variant2.exe
+C:\Users\anya7\Documents\GitHub\Windows_WPF\Variant2\obj\Debug\Variant2.pdb
+C:\Users\anya7\Documents\GitHub\Windows_WPF\Variant2\obj\Debug\Window2.g.cs
+C:\Users\anya7\Documents\GitHub\Windows_WPF\Variant2\obj\Debug\Window2.baml

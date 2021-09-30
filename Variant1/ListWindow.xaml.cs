@@ -23,5 +23,29 @@ namespace Variant1
         {
             InitializeComponent();
         }
+
+        private void exit_button_Click(object sender, RoutedEventArgs e)
+        {
+            Close();
+            new MainWindow().Show();
+        }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            Double width = SystemParameters.FullPrimaryScreenWidth;
+            Double height = SystemParameters.FullPrimaryScreenHeight;
+            this.Top = (height - this.Height) / 2;
+            this.Left = (width - this.Width) / 2;
+        }
+
+        private void res_button_Click(object sender, RoutedEventArgs e)
+        {
+            List <string> words = num_textBox.Text.Split(' ').ToList();
+            foreach (string word in words)
+            {
+                listBox.Items.Add((string)word);
+            }
+
+        }
     }
 }

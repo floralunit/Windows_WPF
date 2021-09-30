@@ -52,5 +52,13 @@ namespace Variant1
             _filewindow.Show();
             Close();
         }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            Double width = SystemParameters.FullPrimaryScreenWidth;
+            Double height = SystemParameters.FullPrimaryScreenHeight;
+            this.Top = (height - this.Height) / 2;
+            this.Left = (width - this.Width) / 2;
+        }
     }
 }

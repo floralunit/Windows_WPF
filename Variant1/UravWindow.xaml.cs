@@ -33,7 +33,7 @@ namespace Variant1
             double b = Convert.ToDouble(b_textbox.Text);
             double c = Convert.ToDouble(c_textbox.Text);
             double d = Math.Pow(b,2) - 4 * a * c;
-            d_label.Content = "Дискриминант равен " + d;
+            d_label.Content = "Дискриминант = " + d;
             if (d < 0)
             {
                 res_label.Content = "Уравнение не имеет корней";
@@ -47,14 +47,23 @@ namespace Variant1
             {
                 double x1 = (-b + Math.Sqrt(d)) / (2 * a);
                 double x2 = (-b - Math.Sqrt(d)) / (2 * a);
-                res_label.Content = "x1 = " + x1 + "x2 = " + x2;
+                res_label.Content = "x1 = " + x1 + "\nx2 = " + x2;
             }
 
         }
 
         private void Exit_button_Click(object sender, RoutedEventArgs e)
         {
-            
+            Close();
+            new MainWindow().Show();
+        }
+
+        private void Grid_Loaded(object sender, RoutedEventArgs e)
+        {
+            Double width = SystemParameters.FullPrimaryScreenWidth;
+            Double height = SystemParameters.FullPrimaryScreenHeight;
+            this.Top = (height - this.Height) / 2;
+            this.Left = (width - this.Width) / 2;
         }
     }
 }

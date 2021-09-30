@@ -5,8 +5,17 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Variant1"
         mc:Ignorable="d"
-        Title="ListWindow" Height="450" Width="800">
-    <Grid>
-        
+        Title="Работа со списками" Height="239.729" Width="334.762" Loaded="Window_Loaded">
+    <Grid Margin="0,0,0.4,-19.6">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="10*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="num_textBox" HorizontalAlignment="Left" Height="23" Margin="10,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185" Grid.ColumnSpan="2"/>
+        <Label x:Name="label" Content="Введите слова через пробел: " HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.752,-0.002" Grid.ColumnSpan="2" Width="185"/>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="100" Margin="10,69,0,0" VerticalAlignment="Top" Width="308" RenderTransformOrigin="-0.139,0.278" Grid.ColumnSpan="2"/>
+        <Button x:Name="res_button" Content="Создать список" Margin="145.4,41,10,0" VerticalAlignment="Top" RenderTransformOrigin="0.962,0.496" Grid.Column="1" Height="23" Click="res_button_Click"/>
+        <Button x:Name="exit_button" Content="Назад" HorizontalAlignment="Left" Margin="167,174,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="1.733,-6.955" Click="exit_button_Click" Grid.Column="1"/>
+
     </Grid>
 </Window>
