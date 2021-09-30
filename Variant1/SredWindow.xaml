@@ -1,0 +1,16 @@
+﻿<Window x:Class="Variant1.SredWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Variant1"
+        mc:Ignorable="d"
+        Title="Расчет среднего арифметического" Height="217.5" Width="234.5">
+    <Grid>
+        <Label Name ="res_label" Content="Результат: " HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="1.474,1.019" Margin="10,151,0,0" Height="28"/>
+        <Label Content="Введите числа через Enter: " HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Button Name ="res_button" Content="Рассчитать" HorizontalAlignment="Left" VerticalAlignment="Top" Width="202" Margin="10,124,0,0" RenderTransformOrigin="-3.895,-0.795" Click="Res_button_Click"/>
+        <TextBox Name="num_textbox" HorizontalAlignment="Left" Height="88" TextWrapping="WrapWithOverflow"  VerticalAlignment="Top" Width="202" Margin="10,31,0,0"/>
+
+    </Grid>
+</Window>

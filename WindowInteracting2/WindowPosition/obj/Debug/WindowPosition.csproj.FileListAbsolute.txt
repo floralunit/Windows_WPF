@@ -1,0 +1,15 @@
+C:\Users\floralunit\source\repos\Windows_WPF\WindowPosition\bin\Debug\WindowPosition.exe.config
+C:\Users\floralunit\source\repos\Windows_WPF\WindowPosition\bin\Debug\WindowPosition.exe
+C:\Users\floralunit\source\repos\Windows_WPF\WindowPosition\bin\Debug\WindowPosition.pdb
+C:\Users\floralunit\source\repos\Windows_WPF\WindowPosition\obj\Debug\WindowPosition.csprojAssemblyReference.cache
+C:\Users\floralunit\source\repos\Windows_WPF\WindowPosition\obj\Debug\MainWindow.g.cs
+C:\Users\floralunit\source\repos\Windows_WPF\WindowPosition\obj\Debug\App.g.cs
+C:\Users\floralunit\source\repos\Windows_WPF\WindowPosition\obj\Debug\WindowPosition_MarkupCompile.cache
+C:\Users\floralunit\source\repos\Windows_WPF\WindowPosition\obj\Debug\WindowPosition_MarkupCompile.lref
+C:\Users\floralunit\source\repos\Windows_WPF\WindowPosition\obj\Debug\MainWindow.baml
+C:\Users\floralunit\source\repos\Windows_WPF\WindowPosition\obj\Debug\WindowPosition.g.resources
+C:\Users\floralunit\source\repos\Windows_WPF\WindowPosition\obj\Debug\WindowPosition.Properties.Resources.resources
+C:\Users\floralunit\source\repos\Windows_WPF\WindowPosition\obj\Debug\WindowPosition.csproj.GenerateResource.cache
+C:\Users\floralunit\source\repos\Windows_WPF\WindowPosition\obj\Debug\WindowPosition.csproj.CoreCompileInputs.cache
+C:\Users\floralunit\source\repos\Windows_WPF\WindowPosition\obj\Debug\WindowPosition.exe
+C:\Users\floralunit\source\repos\Windows_WPF\WindowPosition\obj\Debug\WindowPosition.pdb

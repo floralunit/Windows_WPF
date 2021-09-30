@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotRectangularWindow", "Not
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowPositionSave", "WindowPositionSave\WindowPositionSave.csproj", "{4058B328-E165-4E1C-A333-AF9806AB6B4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variant1", "Variant1\Variant1.csproj", "{8CCC1433-D858-4D0B-BF36-58998174A094}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{4058B328-E165-4E1C-A333-AF9806AB6B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4058B328-E165-4E1C-A333-AF9806AB6B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4058B328-E165-4E1C-A333-AF9806AB6B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CCC1433-D858-4D0B-BF36-58998174A094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CCC1433-D858-4D0B-BF36-58998174A094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CCC1433-D858-4D0B-BF36-58998174A094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CCC1433-D858-4D0B-BF36-58998174A094}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
